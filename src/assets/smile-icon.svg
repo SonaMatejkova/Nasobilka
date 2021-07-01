@@ -1,0 +1,57 @@
+
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="10mm"
+      height="10mm"
+      version="1.1"
+      viewBox="0 0 60 60"
+    >
+      <path
+        fill="#70e000"
+        fillOpacity="0"
+        fillRule="evenodd"
+        stroke="#000"
+        strokeDasharray="none"
+        strokeLinejoin="round"
+        strokeMiterlimit="4"
+        strokeOpacity="1"
+        strokeWidth="2.536"
+        d="M58.98 29.866a28.802 28.505 0 01-28.802 28.505A28.802 28.505 0 011.375 29.866 28.802 28.505 0 0130.178 1.361 28.802 28.505 0 0158.98 29.866z"
+        opacity="1"
+        paintOrder="stroke markers fill"
+      ></path>
+      <path
+        fill="#000"
+        fillRule="evenodd"
+        stroke="none"
+        strokeLinejoin="round"
+        strokeOpacity="0.239"
+        strokeWidth="0.619"
+        d="M21.131 24.015a2.19 2.19 0 01-2.19 2.191 2.19 2.19 0 01-2.19-2.19 2.19 2.19 0 012.19-2.191 2.19 2.19 0 012.19 2.19z"
+        opacity="0.999"
+        paintOrder="stroke markers fill"
+      ></path>
+      <path
+        fill="#000"
+        fillRule="evenodd"
+        stroke="none"
+        strokeLinejoin="round"
+        strokeOpacity="1"
+        strokeWidth="0.619"
+        d="M43.73 23.687a2.19 2.19 0 01-2.19 2.191 2.19 2.19 0 01-2.19-2.19 2.19 2.19 0 012.19-2.191 2.19 2.19 0 012.19 2.19z"
+        opacity="0.999"
+        paintOrder="stroke markers fill"
+      ></path>
+      <path
+        fill="none"
+        stroke="#000"
+        strokeDasharray="none"
+        strokeLinecap="round"
+        strokeLinejoin="miter"
+        strokeMiterlimit="4"
+        strokeOpacity="1"
+        strokeWidth="2.463"
+        d="M11.694 39.057s4.048 2.884 7.321 4.4c8.673 3.339 20.17 2.16 24.7-.523 2.72-1.61 5.885-4.155 5.885-4.155v0"
+        opacity="1"
+      ></path>
+    </svg>

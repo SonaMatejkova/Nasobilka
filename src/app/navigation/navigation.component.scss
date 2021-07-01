@@ -1,0 +1,23 @@
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  margin: 1em;
+  padding: 1em;
+  font-size: 1.2em;
+  & a {
+    color: white;
+    text-decoration: none;
+    width: 500px;
+    padding: 1em 3em;
+    border: 2px solid #ffffff;
+    border-radius: 2em;
+  }
+  & a:hover,
+  & .active {
+    color: #05202e;
+    background-color: #3a6e88;
+  }
+  & li {
+    display: inline;
+  }
+}

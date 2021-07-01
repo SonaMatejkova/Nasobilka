@@ -1,0 +1,18 @@
+h1,
+h2 {
+  text-align: center;
+  margin: 2em auto;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.greeting {
+  background-color: #ececec;
+  color: #1d668a;
+  box-shadow: 2px 3px 4px #1d668a;
+  border-radius: 5px;
+  min-height: 40vh;
+  width: 60vw;
+}

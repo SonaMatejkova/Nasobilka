@@ -1,0 +1,22 @@
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  & ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+  & a {
+    color: white;
+    text-decoration: none;
+    padding: 1em 1.5em;
+    margin: 1em;
+    background-color: #305167;
+    border: 2px solid white;
+    border-radius: 1em;
+  }
+}
+
+.selected {
+  background-color: yellow;
+}

@@ -1,0 +1,32 @@
+.view {
+  margin: 2em;
+  font-size: 1.5em;
+  & span {
+    margin: 1em;
+  }
+}
+
+.container {
+  display: flex;
+  & input {
+    padding: 1em;
+    margin-right: 1em;
+    width: 1.5em;
+    height: 1.5em;
+    border: 2px solid black;
+    border-radius: 1em;
+    font-size: 1.5em;
+  }
+}
+.problem {
+  margin: 1em;
+  font-size: 1.5em;
+  & span {
+    margin: 1em;
+  }
+}
+.column {
+  background-color: white;
+  width: 1.5em;
+  height: 1.5em;
+}

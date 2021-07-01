@@ -1,0 +1,17 @@
+<p>Jakou násobilku procvičíme?</p>
+
+<div class="buttons">
+  <p>Vyber:</p>
+  <ul>
+    <li *ngFor="let number of numbers">
+      <a
+        (click)="selectNumber(number)"
+        [text]="number"
+        [class.selected]="numberIsSelected"
+      ></a>
+    </li>
+  </ul>
+</div>
+<div class="solution" *ngIf="numberIsSelected">
+  <app-multiples-solution [x]="selectedNumber"></app-multiples-solution>
+</div>
